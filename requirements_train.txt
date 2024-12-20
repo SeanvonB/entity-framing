@@ -1,0 +1,11 @@
+accelerate
+evaluate
+datasets
+numpy
+pandas
+scikit-learn
+sentencepiece
+setfit
+
+# Required for SetFit
+transformers==4.42.2
